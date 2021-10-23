@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning about ML with python
+- 🔭 I’m currently developing useful tools for developing AI systems
+- 🌱 I’m currently learning about ML with Python
 - 📫 How to reach me: flaming.ice1117@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm human!
