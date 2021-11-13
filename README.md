@@ -6,8 +6,6 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently developing useful tools for developing AI systems
-- 🌱 I’m currently learning with Python
-- 📫 How to reach me: flaming.ice1117@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm human!
+I’m currently developing useful tools for developing AI systems
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-2007&theme=tokyonight)
